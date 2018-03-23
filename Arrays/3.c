@@ -1,5 +1,5 @@
 /*
-problem: maximum sum of an sub array.
+problem: Largest Sum Contiguous Subarray for 1D array.
 
 problem link:https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0
 
