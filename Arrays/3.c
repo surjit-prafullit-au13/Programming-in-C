@@ -1,3 +1,12 @@
+/*
+problem: maximum sum of an sub array.
+
+problem link:https://practice.geeksforgeeks.org/problems/kadanes-algorithm/0
+
+input: no. of test cases, length and elements of array.
+
+solution: Kadne's algorithm.
+*/
 #include<stdio.h>
 int max(int a, int b) {
 	if (a >= b)
